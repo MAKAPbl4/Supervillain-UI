@@ -1,0 +1,18 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file="internal\Common.lua"/>
+	<Script file="internal\Filters.lua"/>
+	<Script file="package\SVAura.lua"/>
+	<Script file="package\SVBag.lua"/>
+	<Script file="package\SVBar.lua"/>
+	<Script file="package\SVChat.lua"/>
+	<Script file="package\SVDock.lua"/>
+	<Script file="package\SVGear.lua"/>
+	<Script file="package\SVHenchmen.lua"/>
+	<Script file="package\SVMap.lua"/>
+	<Script file="package\SVLaborer.lua"/>
+	<Script file="package\SVOverride.lua"/>
+	<Script file="package\SVPlate.lua"/>
+	<Script file="package\SVStats.lua"/>
+	<Script file="package\SVTip.lua"/>
+	<Script file="package\SVUnit.lua"/>
+</Ui>

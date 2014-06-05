@@ -1,0 +1,9 @@
+## Interface: 50001
+## Title: oUF DiscoDead
+## Notes: Adds Dead and Disconnected textures to portraits or frames.
+## Author: Munglunch
+## Version: 1.00
+## X-Category: oUF
+## Dependencies: oUF
+
+oUF_DiscoDead.lua

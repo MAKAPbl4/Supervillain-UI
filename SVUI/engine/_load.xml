@@ -1,0 +1,17 @@
+﻿<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file='system.lua'/>
+	<Include file='database\_load.xml'/>
+	<Include file='controllers\_load.xml'/>
+	<Script file='screen.lua'/>
+	<Script file='utility.lua'/>
+	<Script file='frames.lua'/>
+	<Script file='timers.lua'/>
+	<Script file='updates.lua'/>
+	<Script file='slash.lua'/>
+	<Script file='alerts.lua'/>
+	<Script file='presets.lua'/>
+	<Script file='installer.lua'/>
+	<Script file='mentalo.lua'/>
+	<Include file='mentalo.xml'/>
+	<Script file='overlord.lua'/>
+</Ui>

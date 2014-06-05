@@ -1,0 +1,11 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file='bardata.lua'/>
+	<Script file='removedefaults.lua'/>
+	<Script file='createspecialbar.lua'/>
+	<Script file='createexit.lua'/>
+	<Script file='createactionbars.lua'/>
+	<Script file='createpetbar.lua'/>
+	<Script file='createstancebar.lua'/>
+	<Script file='createmicrobar.lua'/>
+	<Script file='createbindpkg.lua'/>
+</Ui>
